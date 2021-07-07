@@ -116,7 +116,7 @@
                       <input type="submit" value="Begin Session"></input>
                     </form>
                   </div>
-              }
+              } //fake note
               <p>{ this.state.status }</p>
             </div>
           );
