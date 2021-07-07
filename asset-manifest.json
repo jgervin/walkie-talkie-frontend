@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/walkie-talkie-frontend/static/css/main.a617e044.chunk.css",
+    "main.js": "/walkie-talkie-frontend/static/js/main.09720ab2.chunk.js",
+    "main.js.map": "/walkie-talkie-frontend/static/js/main.09720ab2.chunk.js.map",
+    "runtime-main.js": "/walkie-talkie-frontend/static/js/runtime-main.2b1d85e7.js",
+    "runtime-main.js.map": "/walkie-talkie-frontend/static/js/runtime-main.2b1d85e7.js.map",
+    "static/js/2.42a44c04.chunk.js": "/walkie-talkie-frontend/static/js/2.42a44c04.chunk.js",
+    "static/js/2.42a44c04.chunk.js.map": "/walkie-talkie-frontend/static/js/2.42a44c04.chunk.js.map",
+    "static/js/3.e31a0721.chunk.js": "/walkie-talkie-frontend/static/js/3.e31a0721.chunk.js",
+    "static/js/3.e31a0721.chunk.js.map": "/walkie-talkie-frontend/static/js/3.e31a0721.chunk.js.map",
+    "index.html": "/walkie-talkie-frontend/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/walkie-talkie-frontend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.42a44c04.chunk.js.LICENSE.txt": "/walkie-talkie-frontend/static/js/2.42a44c04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b1d85e7.js",
+    "static/js/2.42a44c04.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.09720ab2.chunk.js"
+  ]
+}
