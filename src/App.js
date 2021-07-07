@@ -66,9 +66,10 @@
         // serve as their device’s identity and they would only
         // be able to connect to device’s owned by users in their
         // friend list.
-        connect(){
-          const recipient = this.state.identity === 'friend1' ? 'friend2' ? 'friend1';
-          this.state.device.connect({recipient:recipient});
+
+        connect() {
+          const recipient = this.state.identity === 'friend1' ? 'friend2' : 'friend1';
+          this.state.device.connect({recipient: recipient});
         }
 
         disconnect() {
