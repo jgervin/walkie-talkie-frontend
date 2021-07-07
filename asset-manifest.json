@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/walkie-talkie-frontend/static/css/main.a617e044.chunk.css",
-    "main.js": "/walkie-talkie-frontend/static/js/main.09720ab2.chunk.js",
-    "main.js.map": "/walkie-talkie-frontend/static/js/main.09720ab2.chunk.js.map",
+    "main.js": "/walkie-talkie-frontend/static/js/main.f390abfc.chunk.js",
+    "main.js.map": "/walkie-talkie-frontend/static/js/main.f390abfc.chunk.js.map",
     "runtime-main.js": "/walkie-talkie-frontend/static/js/runtime-main.2b1d85e7.js",
     "runtime-main.js.map": "/walkie-talkie-frontend/static/js/runtime-main.2b1d85e7.js.map",
     "static/js/2.42a44c04.chunk.js": "/walkie-talkie-frontend/static/js/2.42a44c04.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b1d85e7.js",
     "static/js/2.42a44c04.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.09720ab2.chunk.js"
+    "static/js/main.f390abfc.chunk.js"
   ]
 }
