@@ -102,7 +102,8 @@
             <div className="App">
               {
                 this.state.ready
-                ? <button onMouseDown={this.connect}
+                ? <button className="noselect"
+                          onMouseDown={this.connect}
                           onMouseUp={this.disconnect}>
                     Press to Talk
                   </button>
@@ -117,7 +118,7 @@
                       <input type="submit" value="Begin Session"></input>
                     </form>
                   </div>
-              } 
+              }
               <p>{ this.state.status }</p>
             </div>
           );
