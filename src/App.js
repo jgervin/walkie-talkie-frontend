@@ -103,7 +103,7 @@
               {
                 this.state.ready
                 ? <button className="noselect"
-                          onMouseDown={this.connect}
+                        onMouseDown={this.connect}
                           onMouseUp={this.disconnect}>
                     Press to Talk
                   </button>
